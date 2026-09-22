@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://github.com/AbdallahBlm"><img src="https://img.shields.io/badge/GitHub-AbdallahBlm-6C63FF?style=flat-square&logo=github&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HERE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/abdallah-boualamallah-8ab34231b"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:sidahmadboualamallah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-6C63FF?style=flat-square&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=AbdallahBlm&style=flat-square&color=6C63FF&label=Profile+Views"/>
 
